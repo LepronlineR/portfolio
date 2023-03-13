@@ -1,0 +1,12 @@
+IMPORTANT
+- finish image viewer
+- add in projects
+- video for projects
+
+SECONDARY
+- have a game player at the end of the page
+    - potentially web browser player
+
+BUGS
+- janky navbar links that appear and disappear
+    - look into display: none, try to see if setting a display: none at the end of the keyframe of that animation can help
