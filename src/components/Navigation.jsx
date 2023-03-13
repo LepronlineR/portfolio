@@ -12,7 +12,7 @@ const Navigation = ({isOpen, toggle}) => (
                     transition: { staggerChildren: 0.25, delayChildren: 0.3 }
                 },
                 closed: {
-                    transition: { staggerChildren: 0.10, staggerDirection: 5 }
+                    transition: { staggerChildren: 0.20, staggerDirection: 5 }
                 }
             }}
         >
