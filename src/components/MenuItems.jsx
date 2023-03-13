@@ -19,6 +19,7 @@ const MenuItems = ({pageName, pageID, toggle, isOpen}) => {
                     opacity: 0,
                     transition: {
                         y: { stiffness: 1000 },
+                        display: { delay: 1, initial: 'hidden' }
                     },
                     display: "none"
                 }
