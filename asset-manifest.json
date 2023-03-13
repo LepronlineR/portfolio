@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7722c3aa.css",
+    "main.js": "/portfolio/static/js/main.d65984bf.js",
+    "static/media/Zhi_Zheng_Resume.pdf": "/portfolio/static/media/Zhi_Zheng_Resume.9e079cd01141817fe4c9.pdf",
+    "static/media/temp_img_3.jpg": "/portfolio/static/media/temp_img_3.41d9c1a51220837fe978.jpg",
+    "static/media/me_1.png": "/portfolio/static/media/me_1.b725d39ac606ab573722.png",
+    "index.html": "/portfolio/index.html",
+    "main.7722c3aa.css.map": "/portfolio/static/css/main.7722c3aa.css.map",
+    "main.d65984bf.js.map": "/portfolio/static/js/main.d65984bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7722c3aa.css",
+    "static/js/main.d65984bf.js"
+  ]
+}
