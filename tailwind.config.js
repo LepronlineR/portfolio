@@ -31,6 +31,8 @@ module.exports = {
         other_picture: "url('./assets/temp_img_1.jpg')",
         o_other_picture: "url('./assets/temp_img_2.jpg')",
         contact_picture: "url('./assets/temp_img_3.jpg')",
+        project_picture_1: "url('./assets/temp_img_4.jpg')",
+        project_picture_2: "url('./assets/temp_img_5.jpg')",
         resume: "url('./assets/Zhi_Zheng_Resume.pdf')"
       }
     },

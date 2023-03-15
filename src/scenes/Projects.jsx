@@ -22,9 +22,6 @@ const Projects = () => {
                     </p>
                 </div>
                 <ImagesViewer/>
-                <p className="font-quicksand mt-10 mb-7">
-                    hello world
-                </p>
             </motion.div>
 
             { /* Projects */}
