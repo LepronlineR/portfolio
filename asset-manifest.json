@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7572fc24.css",
-    "main.js": "/portfolio/static/js/main.de1d7cb5.js",
-    "static/media/temp_img_4.jpg": "/portfolio/static/media/temp_img_4.57c01ab17463aba7bbbf.jpg",
+    "main.css": "/portfolio/static/css/main.52164f5d.css",
+    "main.js": "/portfolio/static/js/main.388a0d6c.js",
+    "static/media/campfire_poster.png": "/portfolio/static/media/campfire_poster.e28f38fc7a2bad9a3848.png",
+    "static/media/campfire_2.jpg": "/portfolio/static/media/campfire_2.a471626b428e71111509.jpg",
+    "static/media/temp_img_1.jpg": "/portfolio/static/media/temp_img_1.053c2bdb920d2346b253.jpg",
     "static/media/Zhi_Zheng_Resume.pdf": "/portfolio/static/media/Zhi_Zheng_Resume.9e079cd01141817fe4c9.pdf",
-    "static/media/temp_img_3.jpg": "/portfolio/static/media/temp_img_3.41d9c1a51220837fe978.jpg",
     "static/media/temp_img_5.jpg": "/portfolio/static/media/temp_img_5.b5b44e4eb8f5a2dc26cd.jpg",
+    "static/media/campfire_1.jpg": "/portfolio/static/media/campfire_1.d5505499f2819c323c34.jpg",
     "static/media/me_1.png": "/portfolio/static/media/me_1.b725d39ac606ab573722.png",
     "index.html": "/portfolio/index.html",
-    "main.7572fc24.css.map": "/portfolio/static/css/main.7572fc24.css.map",
-    "main.de1d7cb5.js.map": "/portfolio/static/js/main.de1d7cb5.js.map"
+    "main.52164f5d.css.map": "/portfolio/static/css/main.52164f5d.css.map",
+    "main.388a0d6c.js.map": "/portfolio/static/js/main.388a0d6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7572fc24.css",
-    "static/js/main.de1d7cb5.js"
+    "static/css/main.52164f5d.css",
+    "static/js/main.388a0d6c.js"
   ]
 }
