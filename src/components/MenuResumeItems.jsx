@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import openNewTabLink from "../hooks/openNewTabLink";
-import Resume from "../assets/Zhi_Zheng_Resume.pdf";
+import Resume from "../assets/zhizheng_resume_sd.pdf";
 
 const MenuResumeItems = ({pageName, isOpen}) => {
     return (
